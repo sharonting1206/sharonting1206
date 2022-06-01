@@ -5,14 +5,14 @@
 - 📫 How to reach me: email me @ sharonting1206@gmail.com
 - ✨ Collaboration projecta are labelled as 'collab' in project name, other's are individual works (All of them are the past student works so do tolerate with the unstructured coding methods ._.)
 
-Diploma Work
+Diploma Projects
 - static website
 - software (vb.net)
 - dynamic website (php)*
 - mobile app (react-ionic)
 - software (java)
 
-Degree Work
+Degree Projects
 - software (java)
 - ios mobile app (swift)
 - android mobile app (kotlin)
